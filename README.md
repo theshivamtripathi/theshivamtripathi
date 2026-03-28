@@ -179,7 +179,9 @@
 
 ### 💬 Quote I Live By
 
-> *"The best error message is the one that never shows up."* — Thomas Fuchs
+> ⚡ Motivation  
+"All power is within you; you can do anything and everything."  
+— Swami Vivekananda
 
 ---
 
