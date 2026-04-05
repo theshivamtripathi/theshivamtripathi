@@ -45,7 +45,7 @@
 
 - 🔭 Currently building **[Women Safety Website](https://github.com/theshivamtripathi/women-safety-website)** — AI-powered, socially impactful
 - 🌱 Currently leveling up in **DSA, System Design & Full Stack Web Dev**
-- 🏆 Solved **350+ problems** on LeetCode — strong in Arrays, Trees, Graphs & DP
+- 🏆 Solved **320+ problems** on LeetCode — strong in Arrays, Trees, Graphs & DP
 - 💼 Looking to collaborate on **[LaptopShop](https://github.com/theshivamtripathi/LaptopShop)** — full-stack e-commerce
 - 🤝 Seeking contributors for **[Spotify Clone](https://github.com/theshivamtripathi/spotifyClonePage)**
 - 🗂️ All projects at → **[My Portfolio](https://github.com/theshivamtripathi/MyPortfolio)**
