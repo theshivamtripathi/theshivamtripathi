@@ -1,194 +1,121 @@
-<!-- MATRIX ANIMATED BANNER -->
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d1a,100:0d1117&height=220&section=header&text=Shivam%20Tripathi&fontSize=58&fontColor=00ff41&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20B.Tech%20%40%20Chandigarh%20University&descAlignY=60&descSize=15&animation=fadeIn&stroke=00ff41&strokeWidth=1" />
+<h1 align="center">Hi, I'm Shivam Tripathi 👋</h1>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Shivam+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%A7%A0;350%2B+Problems+Solved+on+LeetCode+%F0%9F%8F%86;B.Tech+%40+Chandigarh+University%2C+Punjab+%F0%9F%8E%93;Building+Real-World+Impactful+Projects+%F0%9F%92%A1;Open+to+Internships+%26+Entry-Level+Roles+%F0%9F%92%BC" alt="Typing SVG" />
-</a>
+<p align="center">
+  <b>Full-stack developer (MERN) · DSA & competitive programming</b><br/>
+  B.E. CSE student at Chandigarh University (2023–2027) · Punjab, India
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-tripathi-317503265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:st9593279@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/st9593279/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://x.com/ShivamT78091769"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+</p>
 
-<!-- Badges Row -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=theshivamtripathi&label=Profile+Views&color=00ff41&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Jobs-00ff41?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Mohali%2C%20Punjab-00cc33?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0d1117" />
-  &nbsp;
-  <a href="https://twitter.com/@shivamt78091769">
-    <img src="https://img.shields.io/twitter/follow/@shivamt78091769?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0d1117" />
+<p align="center">
+  <b>Open to internships and entry-level roles</b> · Software / Full-stack / Backend
+</p>
+
+---
+
+## 👨‍💻 About me
+
+I build web apps end to end, from the React UI to the REST API and database, and I practise DSA in C++ to keep my problem-solving sharp.
+
+- 🔭 **Building now:** TODO (one line: what you are working on this month)
+- 📚 **Learning:** System design, Docker and AWS deployment
+- 🧩 **Practising:** DSA in C++ (LeetCode, GFG, HackerRank)
+- 💬 **Ask me about:** MERN stack, REST APIs, JWT auth, C++ and DSA
+
+---
+
+## 🚀 Featured projects
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **FoodBridge** | Connects food donors with NGOs to cut food waste. Role-based dashboards, JWT auth, image uploads. | React, Node.js, Express, MongoDB, Tailwind, Cloudinary | [Code](https://github.com/theshivamtripathi/TODO-foodbridge-repo) · [Live demo](TODO) |
+| **AI Resume Analyzer** | Parses a PDF resume, scores it against a job description (ATS match), and lists missing skills. | Python, Flask, React, spaCy, PyMuPDF | [Code](https://github.com/theshivamtripathi/TODO-resume-analyzer-repo) · [Live demo](TODO) |
+| **Spotify Clone** | Responsive Spotify-style UI with sidebar, playlists and player layout. | HTML, CSS (Flexbox, Grid, media queries) | [Code](https://github.com/theshivamtripathi/spotifyClonePage) |
+
+> Each project repo has its own README with screenshots, setup steps and features.
+
+---
+
+## 🛠️ Tech stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🧠 Problem solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/st9593279/">
+    <img src="https://leetcard.jacoblin.cool/st9593279?theme=dark&font=Karla&ext=heatmap" alt="LeetCode stats"/>
   </a>
 </p>
 
-</div>
+| Platform | Profile |
+|---|---|
+| LeetCode | [st9593279](https://leetcode.com/u/st9593279/) |
+| GeeksforGeeks | [st959wi2h](https://www.geeksforgeeks.org/profile/st959wi2h) |
+| HackerRank | [St9593279](https://www.hackerrank.com/profile/St9593279) |
+| Codolio (all platforms in one view) | [shivam_tripathi](https://codolio.com/profile/shivam_tripathi) |
+
+I also keep my SQL practice in [leetcode-sql-solutions](https://github.com/theshivamtripathi/leetcode-sql-solutions).
 
 ---
 
-## 🧑‍💻 About Me
+## 📊 GitHub activity
 
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║  Name         : Shivam Tripathi                              ║
-║  Location     : Mohali, Punjab, India  🇮🇳                   ║
-║  University   : Chandigarh University, Punjab                ║
-║  Degree       : B.Tech — Computer Science & Engineering      ║
-║  Focus        : Full Stack Development & Competitive Prog.   ║
-║  Email        : st9593279@gmail.com                          ║
-║  Evailability : 🟢 Actively seeking Internships & Jobs       ║
-║  Best_time    : Mon–Sat, 10 AM – 8 PM IST                    ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-> 💡 *"Turning coffee ☕ into code and ideas into real-world impactful projects 🚀"*
-
-- 🔭 Currently building **[Women Safety Website](https://github.com/theshivamtripathi/women-safety-website)** — AI-powered, socially impactful
-- 🌱 Currently leveling up in **DSA, System Design & Full Stack Web Dev**
-- 🏆 Solved **320+ problems** on LeetCode — strong in Arrays, Trees, Graphs & DP
-- 💼 Looking to collaborate on **[LaptopShop](https://github.com/theshivamtripathi/LaptopShop)** — full-stack e-commerce
-- 🤝 Seeking contributors for **[Spotify Clone](https://github.com/theshivamtripathi/spotifyClonePage)**
-- 🗂️ All projects at → **[My Portfolio](https://github.com/theshivamtripathi/MyPortfolio)**
-- 💬 Ask me about → **C++, DSA, React, Node.js, MongoDB & Full Stack Development**
-- ⚡ Fun fact → I debug with coffee in one hand and Stack Overflow in the other ☕🐛
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-| 🎯 Achievement | 📌 Details |
-|:---|:---|
-| 💻 LeetCode Warrior | **350+ problems** solved — Easy, Medium & Hard |
-| 🛡️ Women Safety App | Built an **AI-powered** real-world women's safety web application |
-| 🌐 Full Stack Projects | End-to-end delivery using the **MERN Stack** |
-| 🧠 DSA Proficiency | Strong grasp of **Data Structures & Algorithms** in C++ |
-| 🔧 Dev Tools Expert | Proficient in **Git, GitHub, VS Code & Postman** |
-| 🎓 Chandigarh University | Pursuing **B.Tech CSE** at one of India's top tech universities |
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,java,python&theme=dark" />
-</p>
-
-### 🌐 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
-</p>
-
-### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mysql&theme=dark" />
-</p>
-
-### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,kubernetes&theme=dark" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=theshivamtripathi&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshivamtripathi&layout=compact&theme=dark&hide_border=true" alt="Top languages"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Education & certifications
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=theshivamtripathi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00cc33&text_color=c9d1d9&ring_color=00ff41" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=theshivamtripathi&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33" />
-</div>
-
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theshivamtripathi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
-</div>
+- **B.E. Computer Science & Engineering**, Chandigarh University, Mohali (2023–2027)
+- **C++ & DSA training**, Chandigarh University (May–Jul 2025). Final project: Snake Game
+- **Cloud Computing certification**, NPTEL, IIT Kharagpur
 
 ---
 
-## 🏅 GitHub Trophies
+## 🤝 Let's connect
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theshivamtripathi&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</div>
+I'm looking for internships and entry-level roles. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/shivam-tripathi-317503265/) or [email](mailto:st9593279@gmail.com).
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theshivamtripathi&bg_color=0d1117&color=00ff41&line=00cc33&point=ffffff&area=true&area_color=00ff4120&hide_border=true" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🔗 Project | 📝 Description | 🛠️ Stack |
-|:---|:---|:---|
-| 🛡️ [Women Safety Website](https://github.com/theshivamtripathi/women-safety-website) | AI-powered app for women's safety & emergency response | HTML, CSS, JS, AI |
-| 💻 [LaptopShop](https://github.com/theshivamtripathi/LaptopShop) | Full-stack e-commerce platform for laptops | MERN Stack |
-| 🎵 [Spotify Clone](https://github.com/theshivamtripathi/spotifyClonePage) | Pixel-perfect Spotify UI clone with music player | HTML, CSS, JS |
-| 🗂️ [My Portfolio](https://github.com/theshivamtripathi/MyPortfolio) | Personal developer portfolio — all projects in one place | Web Dev |
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-### 📬 Reach Me On
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-tripathi-317503265/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:st9593279@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@shivamt78091769)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shivam_tripathi.818)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100044123693511)
-
-### 💻 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/st9593279/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/st9593279)
-[![TopCoder](https://img.shields.io/badge/TopCoder-%2329A8E0.svg?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/274305)
-
-### 📍 Contact Card
-
-```
-╔══════════════════════════════════════════════╗
-║  👤  Shivam Tripathi                         ║
-║  🎓  B.Tech CSE — Chandigarh University      ║
-║  📍  Mohali, Punjab, India                   ║
-║  📧  st9593279@gmail.com                     ║
-║  💼  Open to: Internships & Entry-Level Jobs ║
-║  🕐  Available: Mon–Sat | 10 AM – 8 PM IST  ║
-║  ⚡  Response time: Within 24 hours          ║
-╚══════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Quote I Live By
-
-> ⚡ Motivation  
-"All power is within you; you can do anything and everything."  
-— Swami Vivekananda
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d1a,100:0d1117&height=100&section=footer&fontColor=00ff41" />
-
-**⭐ If you find my work interesting, drop a star on any repo — it really motivates me! 🙏**
-
-`Made with ❤️ & lots of ☕ by Shivam Tripathi — Mohali, Punjab 🇮🇳`
-
-</div>
+<!-- Add later: [Portfolio website](TODO) · [Resume (PDF)](TODO) -->
